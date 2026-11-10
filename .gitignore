@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+env/
+.venv/
+run.bat
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Downloaded MediaPipe model
+hand_landmarker.task
+*.part
